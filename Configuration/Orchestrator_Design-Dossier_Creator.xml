@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DefaultConfiguration>
+  <DatabaseServer></DatabaseServer>
+  <DatabasePort></DatabasePort>
+  <DatabaseName>Orchestrator</DatabaseName>
+  <!-- Database UserName should only be used for Sql Server Authentication, to use Kerberos authentication let the tags, DatabaseUserName and DatabasePassword empties -->
+  <DatabaseUserName>
+  </DatabaseUserName>
+  <DatabasePassword>
+  </DatabasePassword>
+  <DatabaseSecurePassword>
+  </DatabaseSecurePassword>
+  <!-- The Path of the Visio Template, by default the Template is in the Configuration Folder -->
+  <VisioTemplate>TOBECOMPLETED/BASFLO_M.VSSX</VisioTemplate>
+  <VisioStencil>Start/End</VisioStencil>
+  <VisioCallout>Oval</VisioCallout>
+  <VisioGlueFrom>Right</VisioGlueFrom>
+  <VisioGlueTo>Left</VisioGlueTo>
+</DefaultConfiguration>
